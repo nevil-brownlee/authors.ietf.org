@@ -57,6 +57,7 @@ Some tools only support the previous version of RFCXML (v2) and the format is wr
 | [**nroff2xml**](https://github.com/tomaszmrugalski/nroff2xml) | Generates RFCXML from nroff I-Ds |
 | [**pyang**](https://github.com/mbj4668/pyang) | Validates and converts YANG modules |
 | [**rfcdiff**](https://www.ietf.org/rfcdiff) | Side-by-side comparison of an I-D and another version or an RFC |
+| [**rfc-draw**](https://github.com/nevil-brownlee/rfc-draw| Lets you draw diagrams on-screen, save as a .rdd file, make svg, ascii-art and xmlfig diagrams from that .rdd file |
 | [**rfcfold**](https://github.com/ietf-tools/rfcfold) | Handling of long lines in width-bounded text content, e.g., code fragments or example text, in an I-D or RFC |
 | [**rfclint**](https://github.com/ietf-tools/RfcEditor/tree/master/rfclint) | Validates RFCXML documents |
 | [**rfcstrip**](https://github.com/mbj4668/rfcstrip) | Extracts code components, YANG modules and SMIv2 modules from RFCs and Internet Drafts, and extracts and unfolds artwork from RFCs and Internet Drafts in XML format |
